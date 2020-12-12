@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 [<img src="https://github.com/nikku1234/nikku1234/blob/master/profile_hero.gif" height="200px">](#)
 *JS/CSS sandbox for above animation: https://codepen.io/xdega/pen/VwexgPm*
+
 ### Some facts about me:
 -->
 <!--
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-
 
 <p align="center">
   <img src="https://github.com/nikku1234/nikku1234/blob/master/profile_hero.gif" height="200px">
@@ -30,5 +30,7 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
+​    [![HitCount](http://hits.dwyl.com/nikku1234/{project}.svg)](http://hits.dwyl.com/nikku1234/{project})
 
-  <samp> 
+![](https://hit.yhype.me/github/profile?user_id=20269727)
+
