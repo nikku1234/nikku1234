@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikku1234&show_icons=true&line_height=21" alt="Nikku1234's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1234&theme=default&line_height=27&layout=compact" />  
-
 </p>
-![](https://hit.yhype.me/github/profile?user_id=20269727)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikku1234)
