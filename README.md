@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikku1234&count_private=true&show_icons=true&line_height=21" alt="Nikku1234's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1234&theme=default&line_height=27&layout=compact" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1234&langs_count=8&theme=default&line_height=21&layout=compact" />  
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikku1234)
