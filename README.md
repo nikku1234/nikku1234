@@ -30,7 +30,11 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-​    [![HitCount](http://hits.dwyl.com/nikku1234/{project}.svg)](http://hits.dwyl.com/nikku1234/{project})
-
 ![](https://hit.yhype.me/github/profile?user_id=20269727)
 
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikku1234&show_icons=true&line_height=21" alt="Nikku1234's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1234&theme=default&line_height=27&layout=compact" />  
+
+</p>
