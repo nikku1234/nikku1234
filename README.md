@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikku1234&count_private=true&show_icons=true&line_height=24" alt="Nikku1234's Github Stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikku1234&count_private=true&show_icons=true&line_height=24" alt="Nikku1234's Github Stats" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1234&langs_count=8&theme=default&line_height=21&layout=compact" />  
 </p>
 <!-- ![Profile Views](https://hit.yhype.me/github/profile?user_id=20269727)
