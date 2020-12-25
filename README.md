@@ -1,4 +1,4 @@
-
+![](https://hit.yhype.me/github/profile?user_id=20269727)
 ### Hello, I'm Nikhil! 👋
 
 <!--
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
     ⚡ I am a dumb guy who is trying to make a difference by using my knowledge to help people.<br>
   </samp>
 </p>
-![](https://hit.yhype.me/github/profile?user_id=20269727)
 
 
 
