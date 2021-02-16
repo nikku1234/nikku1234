@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/nikku1234/nikku1234/blob/master/profile_hero.gif" height="200px">
-  <br>
+<!--   <img src="https://github.com/nikku1234/nikku1234/blob/master/profile_hero.gif" height="200px"> -->
+<!--   <br> -->
   <samp>
     <br>
 🔭 I’m a Software Engineer.<br>
