@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🔭 I’m a Software Engineer.<br>
     📫 How to reach me: nikhilramesh1234@gmail.com , nramesh8@buffalo.edu <br>
     💬 I’m looking to collaborate projects based on Deep Learning for Medical Images.<br>
-    🤓 Always a student!<br>
+    🤔 Always a student!<br>
     ⚡ I am a dumb guy who is trying to make a difference by using my knowledge to help people.<br>
   </samp>
 </p>
