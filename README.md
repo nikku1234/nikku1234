@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     ⚡ I am a dumb guy who is trying to make a difference by using my knowledge to help people.<br>
   </samp>
 </p>
-![xs:code](https://xscode.com/profile/nikku1234)
+![](https://xscode.com/profile/nikku1234)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikku1234&count_private=true&show_icons=true&line_height=24" alt="Nikku1234's Github Stats" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1234&langs_count=8&theme=default&line_height=21&layout=compact" />  
